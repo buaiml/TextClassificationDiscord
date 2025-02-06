@@ -1,0 +1,1 @@
+when i execute ./cjcrafter in the terminal (after I use sudo chmod +x cjcrafter), it just prints "duhhhhhhhHHhh, der duh duhhhhhh"
