@@ -1,0 +1,1 @@
+You can use the equation body x face = attractiveness, But when face = 0 you will always stay a 0.

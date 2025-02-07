@@ -1,0 +1,1 @@
+The one on the right looks like when you're in create a character mode and you set lip position to -max on the y axis.
