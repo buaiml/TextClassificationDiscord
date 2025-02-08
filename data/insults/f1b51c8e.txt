@@ -1,1 +1,0 @@
-Your head has a drag coefficient of 0.04 while your body is at 0.47.

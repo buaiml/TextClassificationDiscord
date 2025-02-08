@@ -1,1 +1,0 @@
-What's the time complexity on your ability to write, O(n ^ your eyebrow hair count)?
