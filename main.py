@@ -29,7 +29,7 @@ class DiscordClient(discord.Client):
             class_scores = model(t1)[0].numpy()
             
             if classes[class_scores.argmax()] == "insults":
-                await message.reply("You aren't allow to be insulting")
+                await message.reply("We will be pursuing damages for defamation.")
                 await message.delete()
                 break
 
